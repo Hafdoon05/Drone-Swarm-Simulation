@@ -1,0 +1,28 @@
+C:\Users\User\Documents\ADS Homework\ADSHomework\bin\Debug\net8.0\ADSHomework.exe
+C:\Users\User\Documents\ADS Homework\ADSHomework\bin\Debug\net8.0\ADSHomework.deps.json
+C:\Users\User\Documents\ADS Homework\ADSHomework\bin\Debug\net8.0\ADSHomework.runtimeconfig.json
+C:\Users\User\Documents\ADS Homework\ADSHomework\bin\Debug\net8.0\ADSHomework.dll
+C:\Users\User\Documents\ADS Homework\ADSHomework\bin\Debug\net8.0\ADSHomework.pdb
+C:\Users\User\Documents\ADS Homework\ADSHomework\obj\Debug\net8.0\ADSHomework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\ADS Homework\ADSHomework\obj\Debug\net8.0\ADSHomework.AssemblyInfoInputs.cache
+C:\Users\User\Documents\ADS Homework\ADSHomework\obj\Debug\net8.0\ADSHomework.AssemblyInfo.cs
+C:\Users\User\Documents\ADS Homework\ADSHomework\obj\Debug\net8.0\ADSHomework.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\ADS Homework\ADSHomework\obj\Debug\net8.0\ADSHomework.dll
+C:\Users\User\Documents\ADS Homework\ADSHomework\obj\Debug\net8.0\refint\ADSHomework.dll
+C:\Users\User\Documents\ADS Homework\ADSHomework\obj\Debug\net8.0\ADSHomework.pdb
+C:\Users\User\Documents\ADS Homework\ADSHomework\obj\Debug\net8.0\ADSHomework.genruntimeconfig.cache
+C:\Users\User\Documents\ADS Homework\ADSHomework\obj\Debug\net8.0\ref\ADSHomework.dll
+C:\Users\Hafi\Downloads\ADS Homework 2\ADS Homework\ADSHomework\bin\Debug\net8.0\ADSHomework.exe
+C:\Users\Hafi\Downloads\ADS Homework 2\ADS Homework\ADSHomework\bin\Debug\net8.0\ADSHomework.deps.json
+C:\Users\Hafi\Downloads\ADS Homework 2\ADS Homework\ADSHomework\bin\Debug\net8.0\ADSHomework.runtimeconfig.json
+C:\Users\Hafi\Downloads\ADS Homework 2\ADS Homework\ADSHomework\bin\Debug\net8.0\ADSHomework.dll
+C:\Users\Hafi\Downloads\ADS Homework 2\ADS Homework\ADSHomework\bin\Debug\net8.0\ADSHomework.pdb
+C:\Users\Hafi\Downloads\ADS Homework 2\ADS Homework\ADSHomework\obj\Debug\net8.0\ADSHomework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hafi\Downloads\ADS Homework 2\ADS Homework\ADSHomework\obj\Debug\net8.0\ADSHomework.AssemblyInfoInputs.cache
+C:\Users\Hafi\Downloads\ADS Homework 2\ADS Homework\ADSHomework\obj\Debug\net8.0\ADSHomework.AssemblyInfo.cs
+C:\Users\Hafi\Downloads\ADS Homework 2\ADS Homework\ADSHomework\obj\Debug\net8.0\ADSHomework.csproj.CoreCompileInputs.cache
+C:\Users\Hafi\Downloads\ADS Homework 2\ADS Homework\ADSHomework\obj\Debug\net8.0\ADSHomework.dll
+C:\Users\Hafi\Downloads\ADS Homework 2\ADS Homework\ADSHomework\obj\Debug\net8.0\refint\ADSHomework.dll
+C:\Users\Hafi\Downloads\ADS Homework 2\ADS Homework\ADSHomework\obj\Debug\net8.0\ADSHomework.pdb
+C:\Users\Hafi\Downloads\ADS Homework 2\ADS Homework\ADSHomework\obj\Debug\net8.0\ADSHomework.genruntimeconfig.cache
+C:\Users\Hafi\Downloads\ADS Homework 2\ADS Homework\ADSHomework\obj\Debug\net8.0\ref\ADSHomework.dll
